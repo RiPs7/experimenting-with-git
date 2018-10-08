@@ -1,0 +1,1 @@
+git checkout -b "local_branch1" -> Create a new branch with the given name and checkout to it
